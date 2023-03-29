@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageSender.Function", "MessageSender.Function\MessageSender.Function.csproj", "{A98E1E11-66A3-44D5-A652-9C4948F745C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A98E1E11-66A3-44D5-A652-9C4948F745C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98E1E11-66A3-44D5-A652-9C4948F745C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98E1E11-66A3-44D5-A652-9C4948F745C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98E1E11-66A3-44D5-A652-9C4948F745C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3F2774B-BEAE-424A-8BEC-9B26D6176D5C}
+	EndGlobalSection
+EndGlobal
